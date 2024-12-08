@@ -5,7 +5,7 @@
     --header-height: 3rem;
     --font-semi: 600;
     
-     --hue-color: 55; 
+     --hue-color: 50; 
     --first-color: hsl(var(--hue-color), 100%, 55%);
     --second-color: hsl(var(--hue-color), 10%, 10%);
 
