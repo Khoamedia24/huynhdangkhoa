@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DuAnSo1\\KwaStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2472C797-5E3E-40C1-8A7A-2E3C12D838C1}|KwaStore.csproj|d:\\duanso1\\kwastore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2472C797-5E3E-40C1-8A7A-2E3C12D838C1}|KwaStore.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2472C797-5E3E-40C1-8A7A-2E3C12D838C1}|KwaStore.csproj|D:\\DuAnSo1\\KwaStore\\views\\shared\\layout01.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2472C797-5E3E-40C1-8A7A-2E3C12D838C1}|KwaStore.csproj|solutionrelative:views\\shared\\layout01.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2472C797-5E3E-40C1-8A7A-2E3C12D838C1}|KwaStore.csproj|D:\\DuAnSo1\\KwaStore\\content\\css\\stylehome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2472C797-5E3E-40C1-8A7A-2E3C12D838C1}|KwaStore.csproj|solutionrelative:content\\css\\stylehome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 362,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Layout01.cshtml",
+              "DocumentMoniker": "D:\\DuAnSo1\\KwaStore\\Views\\Shared\\Layout01.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Layout01.cshtml",
+              "ToolTip": "D:\\DuAnSo1\\KwaStore\\Views\\Shared\\Layout01.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Layout01.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T07:29:12.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StyleHome.css",
+              "DocumentMoniker": "D:\\DuAnSo1\\KwaStore\\Content\\CSS\\StyleHome.css",
+              "RelativeDocumentMoniker": "Content\\CSS\\StyleHome.css",
+              "ToolTip": "D:\\DuAnSo1\\KwaStore\\Content\\CSS\\StyleHome.css",
+              "RelativeToolTip": "Content\\CSS\\StyleHome.css",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAMwO0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-01T07:16:08.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DuAnSo1\\KwaStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DuAnSo1\\KwaStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T06:33:34.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
