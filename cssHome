@@ -1,27 +1,25 @@
-/*===== GOOGLE FONTS =====*/
+
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
-/*===== VARIABLES CSS =====*/
+
 :root {
     --header-height: 3rem;
     --font-semi: 600;
-    /*===== Colores =====*/
-    /*Purple 260 - Red 355 - Blue 224 - Pink 340*/
-    /* HSL color mode */
-     --hue-color: 55; /* Hue của vàng tươi */
-    --first-color: hsl(var(--hue-color), 100%, 55%); /* Màu vàng chính */
-    --second-color: hsl(var(--hue-color), 10%, 10%); /* Màu vàng đen */
-    /*===== Fuente y tipografia =====*/
+    
+     --hue-color: 55; 
+    --first-color: hsl(var(--hue-color), 100%, 55%);
+    --second-color: hsl(var(--hue-color), 10%, 10%);
+
     --body-font: "Poppins", sans-serif;
     --big-font-size: 2rem;
     --h2-font-size: 1.25rem;
     --normal-font-size: .938rem;
     --smaller-font-size: .75rem;
-    /*===== Margenes =====*/
+
     --mb-2: 1rem;
     --mb-4: 2rem;
     --mb-5: 2.5rem;
     --mb-6: 3rem;
-    /*===== z index =====*/
+    
     --z-back: -10;
     --z-fixed: 100;
 }
@@ -35,7 +33,7 @@
     }
 }
 
-/*===== BASE =====*/
+
 *, ::before, ::after {
     box-sizing: border-box;
 }
